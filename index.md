@@ -1,6 +1,7 @@
 # Udacity Deep Learning Nano Degree Project Notebooks
 
-## Project 1:  [Dog Breeds Classification](dog_app.html)
+## Project 1:  [Predict Bike Sharing Patterns](Your_first_neural_network.html)
+## Project 2:  [Dog Breeds Classification](dog_app.html)
 
 ## Project 2:  [Dog Breeds Classification](dog_app.html)
 
