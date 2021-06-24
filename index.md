@@ -8,4 +8,4 @@
 
 ## Project 4: IMDB Review Sentiment Analysis App (AWS Sagemaker) [html](imdb-review-sentiment-analysis.html) | [github](https://github.com/poornima-sivanand/imdb-sentiment-analysis-app-sagemaker.git)
 
-## Project 5: Human Face Generation [html](dnld_face_generation.html) | [github](https://github.com/poornima-sivanand/face-generation-gan.git)
+## Project 5: Human Face Generation [html](dlnd_face_generation.html) | [github](https://github.com/poornima-sivanand/face-generation-gan.git)
